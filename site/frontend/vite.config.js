@@ -12,16 +12,16 @@ export default defineConfig({
         "name":"Interview Question",
         "short_name":"Interview Question",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#9000FF",
+        "theme_color": "#9000FF",
         "icons":[
           {
-            src: "Business/SofieBerkin/favicon_io/android-chrome-512x512.png",
+            src: "Business/InterviewQuestion/favicon_io/android-chrome-512x512.png",
             sizes: "512x512",
             type: "image/png",
           },
           {
-            src: "Business/SofieBerkin/favicon_io/android-chrome-192x192.png",
+            src: "Business/InterviewQuestion/favicon_io/android-chrome-192x192.png",
             sizes: "192x192",
             type: "image/png",
           },
